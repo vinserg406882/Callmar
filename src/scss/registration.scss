@@ -1,0 +1,218 @@
+.wrapper {
+    background: linear-gradient(311.56deg, rgba(212, 91, 120, 0.9) -21.39%, rgba(75, 56, 98, 0.9) 75.84%);
+    backdrop-filter: blur(50px);
+    height: 100%;
+    .sign {
+        padding-top: 110px;
+        padding-bottom: 172px;
+        @media (max-width: 500px) {
+            padding-top: 100px;
+            padding-bottom: 81px;
+        }
+        .title {
+            font-weight: 700;
+            font-size: 48px;
+            line-height: 56px;
+            margin-bottom: 10px;
+            @media (max-width: 500px) {
+                font-size: 24px;
+                line-height: 28px;
+                margin-bottom: 20px;
+            }
+        }
+        .subtitle-1 {
+            font-weight: 700;
+            font-size: 24px;
+            line-height: 28px;
+            margin-bottom: 5px;
+            @media (max-width: 500px) {
+                font-size: 18px;
+                line-height: 21px;
+                margin-bottom: 10px;
+            }
+        }
+        .subtitle-2 {
+            font-weight: 700;
+            font-size: 24px;
+            line-height: 28px;
+            margin-bottom: 65px;
+            @media (max-width: 500px) {
+                font-size: 18px;
+                line-height: 21px;
+                margin-bottom: 32px;
+            }
+        }
+        .email {
+            display: flex;
+            flex-direction: column;
+            margin-bottom: 40px;
+            @media (max-width: 500px) {
+                margin-bottom: 20px;
+            }
+            label {
+                font-weight: 700;
+                font-size: 24px;
+                line-height: 28px;
+                margin-bottom: 10px;
+                @media (max-width: 500px) {
+                    font-size: 18px;
+                    line-height: 21px;
+                    margin-bottom: 5px;
+                }
+            }
+            input {
+                height: 75px;
+                background: #F3F3F3;
+                border: 3px solid #D75C78;
+                box-shadow: inset 0px 0px 20px -1px rgba(0, 0, 0, 0.5);
+                border-radius: 5px;
+                font-size: 40px;
+                @media (max-width: 500px) {
+                    height: 36px;
+                    border: 2px solid #D75C78;
+                }
+            }
+        }
+        .name {
+            display: flex;
+            flex-direction: column;
+            margin-bottom: 40px;
+            @media (max-width: 500px) {
+                margin-bottom: 20px;
+            }
+            label {
+                font-weight: 700;
+                font-size: 24px;
+                line-height: 28px;
+                margin-bottom: 10px;
+                @media (max-width: 500px) {
+                    font-size: 18px;
+                    line-height: 21px;
+                    margin-bottom: 5px;
+                }
+            }
+            input {
+                height: 75px;
+                background: #F3F3F3;
+                border: 3px solid #D75C78;
+                box-shadow: inset 0px 0px 20px -1px rgba(0, 0, 0, 0.5);
+                border-radius: 5px;
+                font-size: 40px;
+                @media (max-width: 500px) {
+                    height: 36px;
+                    border: 2px solid #D75C78;
+                }
+            }
+        }
+        .web__adress {
+            display: flex;
+            flex-direction: column;
+            margin-bottom: 40px;
+            @media (max-width: 500px) {
+                margin-bottom: 20px;
+            }
+            label {
+                font-weight: 700;
+                font-size: 24px;
+                line-height: 28px;
+                margin-bottom: 10px;
+                @media (max-width: 500px) {
+                    font-size: 18px;
+                    line-height: 21px;
+                    margin-bottom: 5px;
+                }
+            }
+            input {
+                height: 75px;
+                background: #F3F3F3;
+                border: 3px solid #D75C78;
+                box-shadow: inset 0px 0px 20px -1px rgba(0, 0, 0, 0.5);
+                border-radius: 5px;
+                font-size: 40px;
+                @media (max-width: 500px) {
+                    height: 36px;
+                    border: 2px solid #D75C78;
+                }
+            }
+        }
+        .telephone {
+            display: flex;
+            flex-direction: column;
+            margin-bottom: 40px;
+            @media (max-width: 500px) {
+                margin-bottom: 20px;
+            }
+            label {
+                font-weight: 700;
+                font-size: 24px;
+                line-height: 28px;
+                margin-bottom: 10px;
+                @media (max-width: 500px) {
+                    font-size: 18px;
+                    line-height: 21px;
+                    margin-bottom: 5px;
+                }
+            }
+            input {
+                height: 75px;
+                background: #F3F3F3;
+                border: 3px solid #D75C78;
+                box-shadow: inset 0px 0px 20px -1px rgba(0, 0, 0, 0.5);
+                border-radius: 5px;
+                font-size: 40px;
+                @media (max-width: 500px) {
+                    height: 36px;
+                    border: 2px solid #D75C78;
+                }
+            }
+        }
+        .parol {
+            display: flex;
+            flex-direction: column;
+            margin-bottom: 100px;
+            @media (max-width: 500px) {
+                margin-bottom: 63px;
+            }
+            label {
+                font-weight: 700;
+                font-size: 24px;
+                line-height: 28px;
+                margin-bottom: 10px;
+                @media (max-width: 500px) {
+                    font-size: 18px;
+                    line-height: 21px;
+                    margin-bottom: 5px;
+                }
+            }
+            input {
+                height: 75px;
+                background: #F3F3F3;
+                border: 3px solid #D75C78;
+                box-shadow: inset 0px 0px 20px -1px rgba(0, 0, 0, 0.5);
+                border-radius: 5px;
+                font-size: 40px;
+                @media (max-width: 500px) {
+                    height: 36px;
+                    border: 2px solid #D75C78;
+                }
+            }
+        }
+        .btn__block {
+            text-align: center;
+            .btn__sign {
+                background: #D75C78;
+                border-radius: 5px;
+                font-size: 36px;
+                line-height: 42px;
+                padding: 15px 80px;
+                color: #FFFFFF;
+                @media (max-width: 600px) {
+                    padding: 15px 0;
+                    width: 100%;
+                    font-size: 24px;
+                    line-height: 28px;
+                }
+            }
+        }
+    }
+}

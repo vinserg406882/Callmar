@@ -1,0 +1,155 @@
+.wrapper {
+  background: linear-gradient(311.56deg, rgba(212, 91, 120, 0.9) -21.39%, rgba(75, 56, 98, 0.9) 75.84%);
+  backdrop-filter: blur(50px);
+  height: 100%;
+}
+.wrapper .sign {
+  padding-top: 100px;
+  padding-bottom: 132px;
+}
+@media (max-width: 500px) {
+  .wrapper .sign {
+    padding-top: 117px;
+    padding-bottom: 88px;
+  }
+}
+.wrapper .sign .title {
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 56px;
+  margin-bottom: 140px;
+}
+@media (max-width: 500px) {
+  .wrapper .sign .title {
+    font-size: 24px;
+    line-height: 28px;
+    margin-bottom: 137px;
+  }
+}
+.wrapper .sign .email {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 40px;
+}
+@media (max-width: 500px) {
+  .wrapper .sign .email {
+    margin-bottom: 20px;
+  }
+}
+.wrapper .sign .email label {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+  margin-bottom: 10px;
+}
+@media (max-width: 500px) {
+  .wrapper .sign .email label {
+    font-size: 18px;
+    line-height: 21px;
+    margin-bottom: 5px;
+  }
+}
+.wrapper .sign .email input {
+  font-size: 35px;
+  height: 75px;
+  background: #F3F3F3;
+  border: 3px solid #D75C78;
+  box-shadow: inset 0px 0px 20px -1px rgba(0, 0, 0, 0.5);
+  border-radius: 5px;
+}
+@media (max-width: 500px) {
+  .wrapper .sign .email input {
+    height: 36px;
+    border: 2px solid #D75C78;
+  }
+}
+.wrapper .sign .parol {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
+@media (max-width: 500px) {
+  .wrapper .sign .parol {
+    margin-bottom: 40px;
+  }
+}
+.wrapper .sign .parol label {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+  margin-bottom: 10px;
+}
+@media (max-width: 500px) {
+  .wrapper .sign .parol label {
+    font-size: 18px;
+    line-height: 21px;
+    margin-bottom: 5px;
+  }
+}
+.wrapper .sign .parol input {
+  font-size: 35px;
+  height: 75px;
+  background: #F3F3F3;
+  border: 3px solid #D75C78;
+  box-shadow: inset 0px 0px 20px -1px rgba(0, 0, 0, 0.5);
+  border-radius: 5px;
+}
+@media (max-width: 500px) {
+  .wrapper .sign .parol input {
+    height: 36px;
+    border: 2px solid #D75C78;
+  }
+}
+.wrapper .sign .btn__block {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+}
+.wrapper .sign .btn__block .remember__password {
+  background: none;
+  margin-bottom: 62px;
+  position: absolute;
+  right: 0px;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+  color: #D75C78;
+}
+@media (max-width: 500px) {
+  .wrapper .sign .btn__block .remember__password {
+    font-size: 18px;
+    line-height: 21px;
+  }
+}
+.wrapper .sign .btn__block .btn__sign {
+  background: none;
+  margin-bottom: 50px;
+  margin-top: 90px;
+  background: #D75C78;
+  border-radius: 5px;
+  font-size: 36px;
+  line-height: 42px;
+  color: #FFFFFF;
+  padding: 15px 115px;
+}
+@media (max-width: 500px) {
+  .wrapper .sign .btn__block .btn__sign {
+    font-size: 24px;
+    line-height: 28px;
+    margin-bottom: 35px;
+    margin-top: 210px;
+  }
+}
+.wrapper .sign .btn__block .registration {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+  color: #FFFFFF;
+}
+@media (max-width: 500px) {
+  .wrapper .sign .btn__block .registration {
+    font-size: 24px;
+    line-height: 28px;
+  }
+}

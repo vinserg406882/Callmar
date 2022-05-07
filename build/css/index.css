@@ -37,6 +37,7 @@
 }
 .wrapper .header .form__box {
   display: flex;
+  align-items: center;
   gap: 29px;
 }
 @media (max-width: 600px) {
@@ -455,7 +456,7 @@
     font-size: 90px;
   }
 }
-@media (max-width: 700px) and (max-width: 500px) {
+@media (max-width: 500px) {
   .stages .media .media__player .play .icon .icon-btn {
     font-size: 78px;
   }

@@ -1,0 +1,258 @@
+.wrapper {
+  background: linear-gradient(311.56deg, rgba(212, 91, 120, 0.9) -21.39%, rgba(75, 56, 98, 0.9) 75.84%);
+  backdrop-filter: blur(50px);
+  height: 100%;
+}
+.wrapper .sign {
+  padding-top: 110px;
+  padding-bottom: 172px;
+}
+@media (max-width: 500px) {
+  .wrapper .sign {
+    padding-top: 100px;
+    padding-bottom: 81px;
+  }
+}
+.wrapper .sign .title {
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 56px;
+  margin-bottom: 10px;
+}
+@media (max-width: 500px) {
+  .wrapper .sign .title {
+    font-size: 24px;
+    line-height: 28px;
+    margin-bottom: 20px;
+  }
+}
+.wrapper .sign .subtitle-1 {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+  margin-bottom: 5px;
+}
+@media (max-width: 500px) {
+  .wrapper .sign .subtitle-1 {
+    font-size: 18px;
+    line-height: 21px;
+    margin-bottom: 10px;
+  }
+}
+.wrapper .sign .subtitle-2 {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+  margin-bottom: 65px;
+}
+@media (max-width: 500px) {
+  .wrapper .sign .subtitle-2 {
+    font-size: 18px;
+    line-height: 21px;
+    margin-bottom: 32px;
+  }
+}
+.wrapper .sign .email {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 40px;
+}
+@media (max-width: 500px) {
+  .wrapper .sign .email {
+    margin-bottom: 20px;
+  }
+}
+.wrapper .sign .email label {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+  margin-bottom: 10px;
+}
+@media (max-width: 500px) {
+  .wrapper .sign .email label {
+    font-size: 18px;
+    line-height: 21px;
+    margin-bottom: 5px;
+  }
+}
+.wrapper .sign .email input {
+  height: 75px;
+  background: #F3F3F3;
+  border: 3px solid #D75C78;
+  box-shadow: inset 0px 0px 20px -1px rgba(0, 0, 0, 0.5);
+  border-radius: 5px;
+  font-size: 40px;
+}
+@media (max-width: 500px) {
+  .wrapper .sign .email input {
+    height: 36px;
+    border: 2px solid #D75C78;
+  }
+}
+.wrapper .sign .name {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 40px;
+}
+@media (max-width: 500px) {
+  .wrapper .sign .name {
+    margin-bottom: 20px;
+  }
+}
+.wrapper .sign .name label {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+  margin-bottom: 10px;
+}
+@media (max-width: 500px) {
+  .wrapper .sign .name label {
+    font-size: 18px;
+    line-height: 21px;
+    margin-bottom: 5px;
+  }
+}
+.wrapper .sign .name input {
+  height: 75px;
+  background: #F3F3F3;
+  border: 3px solid #D75C78;
+  box-shadow: inset 0px 0px 20px -1px rgba(0, 0, 0, 0.5);
+  border-radius: 5px;
+  font-size: 40px;
+}
+@media (max-width: 500px) {
+  .wrapper .sign .name input {
+    height: 36px;
+    border: 2px solid #D75C78;
+  }
+}
+.wrapper .sign .web__adress {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 40px;
+}
+@media (max-width: 500px) {
+  .wrapper .sign .web__adress {
+    margin-bottom: 20px;
+  }
+}
+.wrapper .sign .web__adress label {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+  margin-bottom: 10px;
+}
+@media (max-width: 500px) {
+  .wrapper .sign .web__adress label {
+    font-size: 18px;
+    line-height: 21px;
+    margin-bottom: 5px;
+  }
+}
+.wrapper .sign .web__adress input {
+  height: 75px;
+  background: #F3F3F3;
+  border: 3px solid #D75C78;
+  box-shadow: inset 0px 0px 20px -1px rgba(0, 0, 0, 0.5);
+  border-radius: 5px;
+  font-size: 40px;
+}
+@media (max-width: 500px) {
+  .wrapper .sign .web__adress input {
+    height: 36px;
+    border: 2px solid #D75C78;
+  }
+}
+.wrapper .sign .telephone {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 40px;
+}
+@media (max-width: 500px) {
+  .wrapper .sign .telephone {
+    margin-bottom: 20px;
+  }
+}
+.wrapper .sign .telephone label {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+  margin-bottom: 10px;
+}
+@media (max-width: 500px) {
+  .wrapper .sign .telephone label {
+    font-size: 18px;
+    line-height: 21px;
+    margin-bottom: 5px;
+  }
+}
+.wrapper .sign .telephone input {
+  height: 75px;
+  background: #F3F3F3;
+  border: 3px solid #D75C78;
+  box-shadow: inset 0px 0px 20px -1px rgba(0, 0, 0, 0.5);
+  border-radius: 5px;
+  font-size: 40px;
+}
+@media (max-width: 500px) {
+  .wrapper .sign .telephone input {
+    height: 36px;
+    border: 2px solid #D75C78;
+  }
+}
+.wrapper .sign .parol {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 100px;
+}
+@media (max-width: 500px) {
+  .wrapper .sign .parol {
+    margin-bottom: 63px;
+  }
+}
+.wrapper .sign .parol label {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+  margin-bottom: 10px;
+}
+@media (max-width: 500px) {
+  .wrapper .sign .parol label {
+    font-size: 18px;
+    line-height: 21px;
+    margin-bottom: 5px;
+  }
+}
+.wrapper .sign .parol input {
+  height: 75px;
+  background: #F3F3F3;
+  border: 3px solid #D75C78;
+  box-shadow: inset 0px 0px 20px -1px rgba(0, 0, 0, 0.5);
+  border-radius: 5px;
+  font-size: 40px;
+}
+@media (max-width: 500px) {
+  .wrapper .sign .parol input {
+    height: 36px;
+    border: 2px solid #D75C78;
+  }
+}
+.wrapper .sign .btn__block {
+  text-align: center;
+}
+.wrapper .sign .btn__block .btn__sign {
+  background: #D75C78;
+  border-radius: 5px;
+  font-size: 36px;
+  line-height: 42px;
+  padding: 15px 80px;
+  color: #FFFFFF;
+}
+@media (max-width: 600px) {
+  .wrapper .sign .btn__block .btn__sign {
+    padding: 15px 0;
+    width: 100%;
+    font-size: 24px;
+    line-height: 28px;
+  }
+}
